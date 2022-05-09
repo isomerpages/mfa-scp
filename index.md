@@ -19,9 +19,6 @@ sections:
         - title: Alumni of SCP
           description: More than X alumni have attended SCP
           url: https://scp.gov.sg
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
