@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Singapore Cooperation Programme - Staging
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -33,3 +33,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
