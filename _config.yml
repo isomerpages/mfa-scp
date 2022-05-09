@@ -52,4 +52,5 @@ plugins:
   - jekyll-remote-theme
 staging: https://mfa-scp-staging.netlify.app
 prod: https://mfa-scp-prod.netlify.app
-is_government: false
+is_government: true
+shareicon: /images/scplogo.png
