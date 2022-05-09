@@ -1,6 +1,6 @@
 logo: /images/scplogo2.png
 links:
-  - title: Programmes
-    collection: example-collection
+  - title: Programmes Collection
+    collection: programmes-collection
   - title: Contact Us
     url: /contact-us/
