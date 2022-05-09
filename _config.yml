@@ -8,13 +8,13 @@ colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#372789"
     - title: media-color-three
-      color: "#00838f"
+      color: "#00088f"
     - title: media-color-four
-      color: "#00838f"
+      color: "#6169ad"
     - title: media-color-five
-      color: "#00838f"
+      color: "#5a6d8b"
 resources_name: Resources
 description: Display something
 permalink: none
