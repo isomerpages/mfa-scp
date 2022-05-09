@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Cooperation Programme - Staging
-description: Brief site description here
+description: Display something
 image: /images/isomer-logo.svg
 permalink: /
 notification: "This is to share more about SCP programmes and course experience "
@@ -33,4 +33,5 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
