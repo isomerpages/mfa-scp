@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Singapore Cooperation Programme - Staging
+title: SCP
 description: Display something
 image: /images/scplogo.png
 permalink: /
@@ -30,3 +30,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
