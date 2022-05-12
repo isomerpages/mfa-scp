@@ -19,8 +19,16 @@ sections:
         - title: Alumni of SCP
           description: More than X alumni have attended SCP
           url: https://scp.gov.sg
+        - title: SCP 1
+          description: Scp1
+          url: ""
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
+  - infobar:
+      title: Something is text here
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
