@@ -18,4 +18,5 @@ International Relations
 4. NTU Master of Science in Accountancy
 5. NTU Master of Science in Supply Chain Engineering
 6. NTU Master of Science in Analytics
-7. NTU Master of Science in Financiala Technology
+7. NTU Master of Science in Financial Technology
+8. NUS-Saw Swee Hock School of Public Health Master in Public Health
