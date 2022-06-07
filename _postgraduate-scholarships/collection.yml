@@ -1,5 +1,5 @@
 collections:
-  programmes-collection:
+  postgraduate-scholarships:
     output: true
     order:
       - Courses Available Under SCP/.keep
