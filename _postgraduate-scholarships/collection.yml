@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Courses Available Under SCP/.keep
-      - Courses Available Under SCP/example-subpage.md
