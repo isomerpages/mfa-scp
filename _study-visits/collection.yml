@@ -1,4 +1,5 @@
 collections:
   study-visits:
     output: true
-    order: []
+    order:
+      - List of Study Visits.md
