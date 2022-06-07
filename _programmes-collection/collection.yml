@@ -2,7 +2,6 @@ collections:
   programmes-collection:
     output: true
     order:
-      - Details of Study Visits/List of Study Visits.md
       - Details of Study Visits/.keep
       - Courses Available Under SCP/.keep
       - Courses Available Under SCP/example-subpage.md
