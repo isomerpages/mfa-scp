@@ -4,23 +4,22 @@ title: SCP
 description: Display something
 image: /images/scplogo.png
 permalink: /
-notification: "This is to share more about SCP programmes and course experience "
+notification: ""
 sections:
   - hero:
-      title: Attending SCP
-      subtitle: How is it like to attend a course on SCP
+      title: ETAP for the Palestinian Authority
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Details of the package
       url: /contact-us/
       key_highlights:
-        - title: Attending SCP
-          description: How is it to attend a course by SCP
-          url: https://scp.gov.sg
-        - title: Alumni of SCP
-          description: More than X alumni have attended SCP
-          url: https://scp.gov.sg
-        - title: SCP 1
-          description: Scp1
+        - title: Customised Study Visits
+          description: Past Study Visits
+          url: ""
+        - title: Postgraduate Scholarships
+          description: List of eligible courses
+          url: ""
+        - title: SCP Training Award
+          description: Latest SCP Training Calendar
           url: ""
   - resources:
       title: Media
