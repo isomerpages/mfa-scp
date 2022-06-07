@@ -2,4 +2,4 @@ collections:
   postgraduate-scholarships:
     output: true
     order:
-      - Courses Available Under SCP/.keep
+      - List of Eligible courses/.keep
