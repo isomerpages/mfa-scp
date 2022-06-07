@@ -2,5 +2,6 @@ collections:
   postgraduate-scholarships:
     output: true
     order:
+      - List of Eligible courses/List of STEM courses.md
       - List of Eligible courses/List of International Relations courses.md
       - List of Eligible courses/.keep
