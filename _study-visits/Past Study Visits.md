@@ -4,15 +4,11 @@ permalink: /programmes-collection/Study-Visits/permalink
 description: ""
 image: /images/PA Customised Visit Singapore Policies in Action 2019-80.jpg
 ---
-
-| Year | Month | Topic |
-
-| 2013     | June     | Education     |
-
+| 2013 | June | Education |
 
 | 2014 | March | Anticorruption |
 
-| 2015   | March   | Driving Innovations and Enterprise  |
+| 2015 | March | Driving Innovations and Enterprise  |
 
 | 2016 | March | Singapore's Development Model |
 
@@ -29,5 +25,3 @@ image: /images/PA Customised Visit Singapore Policies in Action 2019-80.jpg
 | 2019 | September| Public Finance and Fiscal Policy |
 
 | 2021 | November | Workshop on Telecommuting |
-
-
