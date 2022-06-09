@@ -10,4 +10,4 @@ Palestinian officials are offered up to 2 sponsored places for each SCP Training
 * Accomodation 
 * Per diem for training days in Singapore
 
-[Click here to look at the latest courses offered under the SCP Training Calendar](www.scp.gov.sg)
+[Click here to look at the latest courses offered under the SCP Training Calendar] (www.scp.gov.sg)
