@@ -19,7 +19,7 @@ sections:
           description: Information on Scholarships
           url: /postgraduate-scholarships/List-of-Eligible-courses/permalink
         - title: SCP Training Award
-          description: Latest SCP Training Calendar
+          description: Details on the award
           url: /scp-training-calendar/permalink
       subtitle: for the Palestinian Authority
   - infobar:
