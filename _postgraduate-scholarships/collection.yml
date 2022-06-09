@@ -2,6 +2,5 @@ collections:
   postgraduate-scholarships:
     output: true
     order:
-      - Details of the scholarships/Details on Postgraduate scholarship
-        package.md
+      - Details of the scholarships/Terms of Award and Eligible courses.md
       - Details of the scholarships/.keep
