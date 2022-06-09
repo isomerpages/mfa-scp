@@ -4,11 +4,7 @@ permalink: /programmes-collection/Study-Visits/permalink
 description: ""
 image: /images/SCP30 Virtual Bkgrd.jpg
 ---
-
-
-
-
-	| Year | Month | Topic |
+| Year | Month | Topic |
 
 | 2013     | June     | Education     |
 
@@ -31,15 +27,6 @@ image: /images/SCP30 Virtual Bkgrd.jpg
 
 | 2019 | September| Public Finance and Fiscal Policy |
 
-
-
-
-
-
-
-
-
-
-
+| 2021 | November | Workshop on Telecommuting |
 
 
