@@ -12,4 +12,5 @@ Legal Researcher, Palestinian General Personnel Council
 
 S. Rajaratnam School of International Studies, RSIS
 Nanyang Technological University, Singapore
+
 Class of 2021*
