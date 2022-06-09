@@ -16,12 +16,14 @@ image: /images/PA Customised Visit Singapore Policies in Action 2019-80.jpg
 
 | 2017 | November | Economic Development and Planning |
 
+[2017 Study Visit on Economic Development and Planning](/images/PA%20Customised%20Visit%202017-80.jpg)
+
 | 2018 | April | Developments in Asia-Pacific |
 
 | 2018 | July | Urban Planning and Development |
 
 | 2019 | February | Singapore's Policies in Action |
 
-| 2019 | September| Public Finance and Fiscal Policy |
+| 2019 | Septe!mber| Public Finance and Fiscal Policy |
 
 | 2021 | November | Workshop on Telecommuting |
