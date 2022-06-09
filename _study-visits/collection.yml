@@ -2,4 +2,5 @@ collections:
   study-visits:
     output: true
     order:
+      - Statistics on Study Visits.md
       - Past Study Visits.md
