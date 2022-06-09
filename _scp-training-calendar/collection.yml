@@ -1,4 +1,5 @@
 collections:
   scp-training-calendar:
     output: true
-    order: []
+    order:
+      - Latest SCP Training Calendar.md
