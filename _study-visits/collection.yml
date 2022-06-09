@@ -2,4 +2,4 @@ collections:
   study-visits:
     output: true
     order:
-      - List of Study Visits.md
+      - Past Study Visits.md
