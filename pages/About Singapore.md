@@ -21,4 +21,4 @@ and academics to understand Singapore’s development experience. Additionally, 
 and learn about the exciting technological and economic trends in Asia. They will also experience Singapore’s multi-cultural landscape
 and join a global network of SCP alumni.
 
-Find out more at: https://www.visitsingapore.com/en/
+Find out more at: (https://www.visitsingapore.com/en/)
