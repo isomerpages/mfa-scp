@@ -10,7 +10,7 @@ sections:
       title: ETAP for the Palestinian Authority
       background: /images/Cover FA-80.jpg
       button: Details of the package
-      url: /contact-us/
+      url: /permalink
       key_highlights:
         - title: Customised Study Visits
           description: Past Study Visits
