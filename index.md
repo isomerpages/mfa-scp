@@ -16,7 +16,7 @@ sections:
           description: Past Study Visits
           url: /programmes-collection/Study-Visits/permalink
         - title: Postgraduate Scholarships
-          description: List of eligible courses
+          description: Information on Scholarships
           url: /postgraduate-scholarships/List-of-Eligible-courses/permalink
         - title: SCP Training Award
           description: Latest SCP Training Calendar
