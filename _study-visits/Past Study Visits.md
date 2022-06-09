@@ -4,9 +4,6 @@ permalink: /programmes-collection/Study-Visits/permalink
 description: ""
 image: /images/PA Customised Visit Singapore Policies in Action 2019-80.jpg
 ---
-
-
-
 | Year | Month| Theme of Study Visit |
 | -------- | -------- | -------- |
 | 2013    | June     | Education    |
