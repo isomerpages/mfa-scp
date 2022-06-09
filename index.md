@@ -22,8 +22,7 @@ sections:
           description: Latest SCP Training Calendar
           url: ""
   - resources:
-      title: Media
-      subtitle: Learn more
+      title: Photos of ETAP participants
       button: View More
   - infobar:
       title: Something is text here
