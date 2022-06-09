@@ -25,8 +25,7 @@ sections:
       title: Photos of ETAP participants
       button: View More
   - infobar:
-      title: Something is text here
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: About Singapore
+      button: short write up on singapore
+      url: /permalink
 ---
