@@ -20,7 +20,7 @@ sections:
           url: /postgraduate-scholarships/List-of-Eligible-courses/permalink
         - title: SCP Training Award
           description: Latest SCP Training Calendar
-          url: ""
+          url: /scp-training-calendar/permalink
       subtitle: for the Palestinian Authority
   - infobar:
       title: About Singapore
