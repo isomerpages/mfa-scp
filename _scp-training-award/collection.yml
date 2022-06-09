@@ -1,5 +1,5 @@
 collections:
-  scp-training-calendar:
+  scp-training-award:
     output: true
     order:
       - Latest SCP Training Calendar.md
