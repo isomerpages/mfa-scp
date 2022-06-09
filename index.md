@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Customised Study Visits
           description: Past Study Visits
-          url: ""
+          url: /programmes-collection/Study-Visits/permalink
         - title: Postgraduate Scholarships
           description: List of eligible courses
           url: /postgraduate-scholarships/List-of-Eligible-courses/permalink
