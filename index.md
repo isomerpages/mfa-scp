@@ -27,5 +27,5 @@ sections:
   - infobar:
       title: About Singapore
       button: short write up on singapore
-      url: /permalink
+      url: /example-page
 ---
