@@ -17,7 +17,7 @@ sections:
           url: ""
         - title: Postgraduate Scholarships
           description: List of eligible courses
-          url: ""
+          url: /postgraduate-scholarships/List-of-Eligible-courses/permalink
         - title: SCP Training Award
           description: Latest SCP Training Calendar
           url: ""
