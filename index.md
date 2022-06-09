@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: ETAP for the Palestinian Authority
-      background: /images/hero-banner.png
+      background: /images/Cover FA-80.jpg
       button: Details of the package
       url: /contact-us/
       key_highlights:
