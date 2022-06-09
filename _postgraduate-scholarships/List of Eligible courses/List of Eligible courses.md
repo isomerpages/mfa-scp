@@ -5,6 +5,14 @@ description: ""
 third_nav_title: List of Eligible courses
 image: /images/Hanan_Graduated-80.jpg
 ---
+# Terms of Scholarship
+* Economy airfares to and from Singapore
+* Travel costs
+* Course fees
+* Monthly stipend
+* Student accommodation
+
+# List of Eligible Courses
 1.  NTU-RSIS Master of Science in
   International Political Economy
   
