@@ -2,4 +2,4 @@ collections:
   scp-training-award:
     output: true
     order:
-      - Latest SCP Training Calendar.md
+      - Terms of Award and list of eligible courses.md
