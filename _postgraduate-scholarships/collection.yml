@@ -2,5 +2,6 @@ collections:
   postgraduate-scholarships:
     output: true
     order:
-      - List of Eligible courses/Details on Postgraduate scholarship package.md
-      - List of Eligible courses/.keep
+      - Details of the scholarships/Details on Postgraduate scholarship
+        package.md
+      - Details of the scholarships/.keep
