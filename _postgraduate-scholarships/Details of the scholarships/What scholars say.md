@@ -9,6 +9,7 @@ third_nav_title: Details of the scholarships
 
 *Ms Hanan Sahmoud
 Legal Researcher, Palestinian General Personnel Council
+
 S. Rajaratnam School of International Studies, RSIS
 Nanyang Technological University, Singapore
 Class of 2021*
