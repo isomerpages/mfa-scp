@@ -21,11 +21,11 @@ sections:
         - title: SCP Training Award
           description: Latest SCP Training Calendar
           url: ""
-  - resources:
-      title: Photos of ETAP participants
-      button: View More
   - infobar:
       title: About Singapore
       button: short write up on singapore
       url: /example-page
+  - resources:
+      title: Photos of ETAP participants
+      button: View More
 ---
