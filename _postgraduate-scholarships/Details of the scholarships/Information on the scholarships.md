@@ -5,17 +5,9 @@ description: ""
 third_nav_title: Details of the scholarships
 image: /images/Hanan_Graduated-80.jpg
 ---
-
 Under the ETAP, Palestinian officials can apply for the post-graduate scholarships for the following programmes below in International Relations, Science, Technology Engineering and Mathematics (STEM), and Public Health at the National University of Singapore (NUS) and the Nanyang Technological University (NTU).  NUS and NTU are Singapore's flagship universities and have been consistently ranked among the world's top universities. NUS and NTU are at the forefront of equipping their graduates with the broad skills and perspectives required to flourish the future economy and contribute to the development of their communities. Students pursuing a postgraduate degree at NUS or NTU would have the opportunity to be involved in innovative and cutting edge research as well as engage in conversations with a diverse student community from across the world.
 
 
-
-# Terms of Scholarship
-* Economy airfares to and from Singapore
-* Travel costs
-* Course fees
-* Monthly stipend
-* Student accommodation
 
 # List of Eligible Courses
 1.  NTU-RSIS Master of Science in
