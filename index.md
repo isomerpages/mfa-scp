@@ -10,7 +10,7 @@ sections:
       title: Enhanced Technical Assistance Programme
       background: /images/Cover FA-80.jpg
       button: Details of the package
-      url: /permalink
+      url: /detailsofETAP
       key_highlights:
         - title: Customised Study Visits
           description: Past Study Visits
