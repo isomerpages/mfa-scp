@@ -25,5 +25,5 @@ sections:
   - infobar:
       title: About Singapore
       button: Find out more
-      url: /example-page
+      url: /aboutSG
 ---
