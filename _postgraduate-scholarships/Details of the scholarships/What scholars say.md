@@ -5,6 +5,10 @@ description: ""
 image: /images/Postgraduate scholars/Hanan_12Sep-80.jpg
 third_nav_title: Details of the scholarships
 ---
+![](/images/Postgraduate%20scholars/Hanan_Graduated-80.jpg)
+
+
+
 > Singapore's education system had contributed to my professional development, opened my eyes to a new international perspective and gave me the chance to participate and attend seminars and workshops that helped develop my capabilities and expand my horizon.
 
 **Ms Hanan Sahmoud**
