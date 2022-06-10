@@ -16,7 +16,9 @@ Email: mfa_scp@mfa.gov.sg
 # Palestinian Contact Details
 
 **Mr Jamil Abu Haykal**
+
 General Directorate of International Relations and Projects
+
 Ministry of Finance
 
 Email: ajamil@pmofs.ps
