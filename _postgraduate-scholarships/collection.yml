@@ -2,6 +2,6 @@ collections:
   postgraduate-scholarships:
     output: true
     order:
-      - Details of the scholarships/What scholars say.md
-      - Details of the scholarships/Information on the scholarships.md
       - Details of the scholarships/.keep
+      - Details of the scholarships/Information on the scholarships.md
+      - Details of the scholarships/What scholars say.md
