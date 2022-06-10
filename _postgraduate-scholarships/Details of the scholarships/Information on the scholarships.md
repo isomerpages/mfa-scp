@@ -29,6 +29,8 @@ Under the ETAP, Palestinian officials can apply for the post-graduate scholarshi
 
 Find out more:
 
-[www.comp.nus.edu.sg](www.comp.nus.edu.sg)
+[www.comp.nus.edu.sg]
+(www.comp.nus.edu.sg)
 
-[www.rsis.edu.sg/gpo](www.rsis.edu.sg/gpo)
+[www.rsis.edu.sg/gpo]
+(www.rsis.edu.sg/gpo)
