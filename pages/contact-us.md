@@ -17,6 +17,16 @@ locations:
         description: ""
     maps_link: ""
     title: TCD
+  - address:
+      - 1 P road
+      - ""
+      - ""
+    title: Palestinian
+    operating_hours:
+      - days: Mon-fri
+        time: 0800 to 1800
+        description: ""
+    maps_link: ""
 contacts:
   - content:
       - phone: +65 6379 8000
