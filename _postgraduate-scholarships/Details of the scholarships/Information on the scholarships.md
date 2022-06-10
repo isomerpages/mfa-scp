@@ -33,6 +33,6 @@ Students pursuing a postgraduate degree at NUS or NTU would have the opportunity
 
 Find out more:
 
-[www.comp.nus.edu.sg](www.comp.nus.edu.sg)
+[https://www.comp.nus.edu.sg/](https://www.comp.nus.edu.sg/)
 
-[www.rsis.edu.sg/gpo](www.rsis.edu.sg/gpo)
+[https://www.rsis.edu.sg/gpo/](https://www.rsis.edu.sg/gpo/)
