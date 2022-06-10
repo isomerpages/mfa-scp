@@ -24,6 +24,6 @@ sections:
       subtitle: for the Palestinian Authority
   - infobar:
       title: About Singapore
-      button: short write up on singapore
+      button: Find out more
       url: /example-page
 ---
