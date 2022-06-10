@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Details of the scholarships/What scholars say.md
-      - Details of the scholarships/Terms of Award and Eligible courses.md
+      - Details of the scholarships/Information on the scholarships.md
       - Details of the scholarships/.keep
