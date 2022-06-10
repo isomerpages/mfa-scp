@@ -21,16 +21,21 @@ locations:
       - 1 P road
       - ""
       - ""
-    title: Palestinian
     operating_hours:
       - days: Mon-fri
         time: 0800 to 1800
         description: ""
     maps_link: ""
+    title: Palestinian
 contacts:
   - content:
       - phone: +65 6379 8000
       - email: mfa_scp@mfa.gov.sg
       - other: ""
     title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: Contact Palestinian
 ---
