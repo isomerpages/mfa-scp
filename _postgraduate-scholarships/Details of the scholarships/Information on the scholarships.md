@@ -27,4 +27,8 @@ Under the ETAP, Palestinian officials can apply for the post-graduate scholarshi
 15.  NTU Master of Science in Financial Technology
 16.  NUS-Saw Swee Hock School of Public Health Master in Public Health
 
+Find out more:
 
+[NUS Computing](www.comp.nus.edu.sg)
+
+[RSIS](www.rsis.edu.sg/gpo)
