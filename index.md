@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Enhanced Technical Assistance Programme
+      title: Technical Assistance for the Palestinian Authority
       background: /images/Cover FA-80.jpg
       button: Details of the package
       url: /detailsofETAP
@@ -21,7 +21,6 @@ sections:
         - title: SCP Training Award
           description: Details on the award
           url: /scp-training-calendar/permalink
-      subtitle: for the Palestinian Authority
   - infobar:
       title: About Singapore
       button: Find out more
