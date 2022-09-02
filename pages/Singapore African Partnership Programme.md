@@ -7,7 +7,7 @@ permalink: /African
 notification: ""
 sections:
   - hero:
-      title: Technical Assistance for the Palestinian Authority
+      title: Technical Assistance for the Singapore African Partnership Programme
       background: /images/Cover FA-80.jpg
       button: Details of the package
       url: /detailsofsapp
