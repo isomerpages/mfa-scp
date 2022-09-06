@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Technical Assistance for the Singapore African Partnership Programme
-      background: /images/Cover FA-80.jpg
+      background: /images/hero-banner.png
       button: Details of the package
       url: /detailsofsapp
       key_highlights:
