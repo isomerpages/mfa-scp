@@ -3,7 +3,7 @@ layout: homepage
 title: Singapore African Partnership Programme
 description: Singapore African Partnership Programme
 image: /images/scplogo.png
-permalink: /African
+permalink: /african
 notification: ""
 sections:
   - hero:
