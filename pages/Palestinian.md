@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: SCP
-description: Display something
+title: Palestinian
+description: Technical Assistance for the Palestinian Authority
 image: /images/scplogo.png
 permalink: /palestinian
 notification: ""
