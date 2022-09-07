@@ -7,20 +7,20 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Technical Assistance for the Palestinian Authority
+      title: SINGAPORE COOPERATION PROGRAMME
       background: /images/Cover FA-80.jpg
-      button: Details of the package
-      url: /detailsofETAP
+      button: Our Story
+      url: /ourstory
       key_highlights:
-        - title: Customised Study Visits
-          description: Past Study Visits
-          url: /programmes-collection/Study-Visits/permalink
-        - title: Postgraduate Scholarships
-          description: Information on Scholarships
-          url: /postgraduate-scholarships/List-of-Eligible-courses/permalink
-        - title: SCP Training Award
-          description: Details on the award
-          url: /scp-training-calendar/permalink
+        - title: WHO WE WORK WITH
+          description: WHO WE WORK WITH
+          url: /whoweworkwith/permalink
+        - title: WHAT WE DO
+          description: WHAT WE DO
+          url: /whatwedo/permalink
+        - title: THE SCP EXPERIENCE
+          description: THE SCP EXPERIENCE
+          url: /thescpexperience/permalink
   - infobar:
       title: About Singapore
       button: Find out more
