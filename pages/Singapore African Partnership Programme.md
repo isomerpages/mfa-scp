@@ -18,8 +18,8 @@ sections:
         - title: Postgraduate Scholarships
           description: Information on Scholarships
           url: /postgraduate-scholarships/List-of-Eligible-courses/permalink
-        - title: SCP Training Award
-          description: Details on the award
+        - title: Priority Placement in SCP Courses
+          description: Details on the SCP Courses
           url: /scp-training-calendar/permalink
   - infobar:
       title: About Singapore
