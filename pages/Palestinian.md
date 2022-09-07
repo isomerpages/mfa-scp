@@ -3,7 +3,7 @@ layout: homepage
 title: Palestinian
 description: Technical Assistance for the Palestinian Authority
 image: /images/scplogo.png
-permalink: /palestinian
+permalink: /Palestinian
 notification: ""
 sections:
   - hero:
