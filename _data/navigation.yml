@@ -1,5 +1,7 @@
 logo: /images/scplogo2.png
 links:
+  - title: SCP Training Award
+    collection: scp-training-award
   - title: Tctps
     collection: tctps
   - title: Postgraduate Scholarships
@@ -9,5 +11,3 @@ links:
     sublinks: []
   - title: Contact Us
     url: /contactus
-  - title: SCP Training Award
-    collection: scp-training-award
