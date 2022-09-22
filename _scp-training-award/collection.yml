@@ -1,0 +1,4 @@
+collections:
+  scp-training-award:
+    output: true
+    order: []
