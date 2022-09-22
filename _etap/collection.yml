@@ -1,5 +1,4 @@
 collections:
   etap:
     output: true
-    order:
-      - Palestinian.md
+    order: []
