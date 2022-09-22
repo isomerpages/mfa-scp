@@ -11,23 +11,23 @@ We also work closely with an international network of national focal points in d
 
 **Our list of partners**
 
-* ADB
-*  IAEA
-*  ICAO
-*  IMF
-*  IMO
+* Asian Development Bank (ADB)
+* International Atomic Energy Agency (IAEA)
+* International Civil Aviation Organisation (ICAO)
+* International Monetary Fund (IMF)
+* International Maritime Organisation (IMO)
 * INTERPOL
-* UNDRR
-* UNDP
-* UNEP
+* UN Office of Disaster Risk Reduction (UNDRR)
+* UN Development Programme (UNDP)
+* UN Environment Programme (UNEP)
 * UNFCCC
-* UN-Habitat
-* UNICEF
+* UN Habitat
+* UN Children's Fund (UNICEF)
 * UNODC
-* WHO
-* WIPO
+* World Health Organisation (WHO)
+* World Intellectual Property Organisation (WIPO)
 * World Bank
-* WTO
+* World Trade Organisation (WTO)
 * Argentina FOAR
 * Australia DFAT
 * CARICOM
