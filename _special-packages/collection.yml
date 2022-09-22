@@ -2,4 +2,5 @@ collections:
   special-packages:
     output: true
     order:
+      - ETAP/.keep
       - Details of SAPP.md
