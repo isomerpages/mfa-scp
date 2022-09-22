@@ -9,7 +9,7 @@ We work with more than 50 local and international partners to run capacity build
 
 We also work closely with an international network of national focal points in developing countries and territories to disseminate information about our capacity building programmes and to identify suitable officlals who would benefit from participation in our programmes.  
 
-**Our list of partners**
+**Our list of foreign training partners**
 
 * Asian Development Bank (ADB)
 * International Atomic Energy Agency (IAEA)
@@ -44,4 +44,5 @@ We also work closely with an international network of national focal points in d
 * Singapore Red Cross
 * Thailand International Cooperation Agency (TICA)
 * Turkish Cooperation and Coordination Agency (TIKA)
+* UK Foreign and Commonwealtha Office (FCO)
 * US State Department
