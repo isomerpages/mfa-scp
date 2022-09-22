@@ -15,4 +15,4 @@ Our government officers recieved training in many areas:
 * healthcare
 * public sector reform
 
-The Singapore Cooperation Programme was formally established in 1992 to give back to the world. We focus on human resource development as we believe that human capital is the key to a country's sustainable development. 
+The Singapore Cooperation Programme was formally established in 1992 to give back to the world. We focus on human resource development as we believe that human capital is the key to a country's sustainable development.
