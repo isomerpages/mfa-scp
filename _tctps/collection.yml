@@ -4,5 +4,4 @@ collections:
     order:
       - TCTPs/.keep
       - TCTPs.md
-      - US TCTP.md
       - JSPP21.md
