@@ -1,4 +1,5 @@
 collections:
   home-page-button-pages:
     output: true
-    order: []
+    order:
+      - Who we work with.md
