@@ -6,8 +6,7 @@ links:
     collection: tctps
   - title: Postgraduate Scholarships
     collection: postgraduate-scholarships
-  - title: Special Packages
-    url: specialpackages/permalink
-    sublinks: []
   - title: Contact Us
     url: /contactus
+  - title: Special Packages
+    collection: special-packages
