@@ -10,7 +10,7 @@ sections:
       title: SINGAPORE COOPERATION PROGRAMME
       background: /images/Cover FA-80.jpg
       button: Our Story
-      url: /ourstory
+      url: /ourstory/permalink
       key_highlights:
         - title: WHO WE WORK WITH
           description: WHO WE WORK WITH
