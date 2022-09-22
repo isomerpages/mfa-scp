@@ -21,7 +21,7 @@ We also work closely with an international network of national focal points in d
 * UN Development Programme (UNDP)
 * UN Environment Programme (UNEP)
 * UNFCCC
-* UN Habitat
+* UN-Habitat
 * UN Children's Fund (UNICEF)
 * United Nations Office of Drugs and Crime (UNODC)
 * World Health Organisation (WHO)
