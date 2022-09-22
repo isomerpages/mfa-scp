@@ -16,3 +16,5 @@ Our government officers received training in many areas:
 * public sector reform
 
 The Singapore Cooperation Programme was formally established in 1992 to give back to the world. We focus on human resource development as we believe that human capital is the key to a country's sustainable development.
+
+The SCP is managed by the Technical Cooperation Directorate of the Ministry of Foreign Affairs of Singapore.
