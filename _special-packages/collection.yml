@@ -2,6 +2,7 @@ collections:
   special-packages:
     output: true
     order:
+      - Africa/Singapore African Partnership Programme.md
       - Africa/.keep
       - ETAP/.keep
       - ETAP/Details of the ETAP.md
