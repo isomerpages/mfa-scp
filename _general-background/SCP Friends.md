@@ -83,3 +83,112 @@ Gabon
 Gambia
 Georgia
 Ghana
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+
+# H****
+Haiti
+Honduras
+Hungary
+
+# I****
+India
+Indonesia
+Iran
+Iraq
+Israel
+
+# J****
+Jamaica
+Jordan
+
+# K****
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+
+# L****
+Lao PDR
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Lithuania
+
+# M****
+Madagascar
+Malawi
+Malaysia
+Maldvies
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+
+# **N**
+Namibia
+Nauru
+Nepal
+Nicaragua
+Niger
+Nigeria
+Niue
+North Macedonia
+
+# O****
+Oman
+Organisation of Eastern Carribbean States (OECS)
+
+P
+Pakistan
+Palau
+Palestinian Authority
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+
+Q
+Qatar
+
+R
+Romania
+Russian Federation
+Rwanda
+
+S 
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+Sao Tome and Principe
+Saudi Arabia
+Secretariat of the Pacific Community
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
