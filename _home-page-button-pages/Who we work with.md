@@ -3,7 +3,11 @@ title: Who we work with
 permalink: /whoweworkwith/permalink/
 description: ""
 ---
-SCP strongly believes in the value of partnerships.  We work with more than 50 local and international partners to run capacity building programmes for government officials from developing countries and territories. 
+**SCP strongly believes in the value of partnerships.  **
+
+We work with more than 50 local and international partners to run capacity building programmes for government officials from developing countries and territories. 
+
+We also work closely with an international network of national focal points in developing countries to disseminate information about our capacity building programmes and to identify suitable officlals who would benefit from participation in our programmes.  
 
 **Our list of partners**
 
