@@ -1,4 +1,5 @@
 collections:
   scp-training-award:
     output: true
-    order: []
+    order:
+      - SCP Training Award.md
