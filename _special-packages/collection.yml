@@ -2,6 +2,7 @@ collections:
   special-packages:
     output: true
     order:
+      - Climate Action Package/Details of CAP.md
       - Climate Action Package/.keep
       - SIDS/Details of SIDS packages.md
       - SIDS/.keep
