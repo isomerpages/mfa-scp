@@ -2,5 +2,6 @@ collections:
   etap:
     output: true
     order:
+      - Information on the scholarships.md
       - Details of the ETAP.md
       - Palestinian.md
