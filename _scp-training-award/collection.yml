@@ -2,5 +2,4 @@ collections:
   scp-training-award:
     output: true
     order:
-      - Terms of Award and list of eligible courses.md
       - What PA officials had to say about the SCP Training Award courses.md
