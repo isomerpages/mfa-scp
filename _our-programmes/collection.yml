@@ -2,4 +2,5 @@ collections:
   our-programmes:
     output: true
     order:
+      - SCP Training Award.md
       - Details of SAPP.md
