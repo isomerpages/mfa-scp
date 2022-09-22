@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Our story.md
-      - The SCP Experience.md
-      - What we do.md
       - Who we work with.md
+      - What we do.md
+      - The SCP Experience.md
