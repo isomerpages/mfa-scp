@@ -2,5 +2,4 @@ collections:
   etap:
     output: true
     order:
-      - Details of the ETAP.md
       - Palestinian.md
