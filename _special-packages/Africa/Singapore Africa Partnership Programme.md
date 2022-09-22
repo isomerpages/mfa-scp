@@ -12,4 +12,4 @@ third_nav_title: Africa
 
 1. Customised courses per year in Singapore in emerging areas such as Climate Change and Sustainability, and Digitalisation and Smart Cities
 2. Priority places for African government officials in  [SCP courses](www.scp.gov.sg)
-3. Post-graduate scholarships each year for senior African government officials to attend selected one-year programmes in LKYSPP and RSIS.
+3. Post-graduate scholarships each year for senior African government officials to attend selected one-year programmes in LKYSPP and RSIS. Please refer to [this webpage](/postgraduate-scholarships/Details-of-the-scholarships/permalink/) for details on the scholarship.
