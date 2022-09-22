@@ -2,4 +2,5 @@ collections:
   home-page-button-pages:
     output: true
     order:
+      - What we do.md
       - Who we work with.md
