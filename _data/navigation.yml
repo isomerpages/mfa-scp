@@ -1,13 +1,13 @@
 logo: /images/scplogo2.png
 links:
-  - title: Our Programmes
-    url: /permalink
-    sublinks: []
-  - title: Postgraduate Scholarships
-    collection: postgraduate-scholarships
-  - title: Customised Study Visits
-    collection: study-visits
   - title: Scp Training Award
     collection: scp-training-award
+  - title: Customised Study Visits
+    collection: study-visits
+  - title: Postgraduate Scholarships
+    collection: postgraduate-scholarships
+  - title: Special Packages
+    url: specialpackages/permalink
+    sublinks: []
   - title: Contact Us
     url: /contactus
