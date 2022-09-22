@@ -2,7 +2,6 @@ collections:
   etap:
     output: true
     order:
-      - Terms of Award and list of eligible courses.md
       - Past Study Visits.md
       - What scholars say.md
       - Information on the scholarships.md
