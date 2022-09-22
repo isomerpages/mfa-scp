@@ -2,6 +2,7 @@ collections:
   home-page-button-pages:
     output: true
     order:
+      - Our story.md
       - The SCP Experience.md
       - What we do.md
       - Who we work with.md
