@@ -3,6 +3,8 @@ title: SCP Friends
 permalink: /scpfriends/permalink/
 description: ""
 ---
+This is the list of countries,, territories and intergovernmental organisations whose officials have participated in SCP programmes.
+
 # **A**
 ###### Afghanistan
 ###### Albania
