@@ -9,6 +9,7 @@ third_nav_title: Details of the scholarships
 #### The scholarships are for the following one year Masters programmes in International Relations and Public Policy.
 ### 
 #### List of Eligible Courses
+
 1.   NTU-RSIS Master of Science in
    International Political Economy
    
@@ -22,4 +23,3 @@ third_nav_title: Details of the scholarships
 11.  NUS-LKYSPP Master of Public Administration and Management (conducted in mandarin) 
 
 Please refer to the university websites for more details on the respective courses.
-
