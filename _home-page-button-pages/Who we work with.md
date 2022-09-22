@@ -44,5 +44,5 @@ We also work closely with an international network of national focal points in d
 * Singapore Red Cross
 * Thailand International Cooperation Agency (TICA)
 * Turkish Cooperation and Coordination Agency (TIKA)
-* UK Foreign and Commonwealtha Office (FCO)
+* UK Foreign and Commonwealth Office (FCO)
 * US State Department
