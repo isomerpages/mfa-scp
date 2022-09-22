@@ -11,5 +11,5 @@ third_nav_title: Africa
 #### The three year SAPP, which runs from 2022 to 2025, offers:
 
 1. Customised courses per year in Singapore in emerging areas such as Climate Change and Sustainability, and Digitalisation and Smart Cities
-2. Priority places for African government officials in SCP courses
+2. Priority places for African government officials in  [SCP courses](www.scp.gov.sg)
 3. Post-graduate scholarships each year for senior African government officials to attend selected one-year programmes in LKYSPP and RSIS.
