@@ -2,4 +2,5 @@ collections:
   tctps:
     output: true
     order:
+      - US TCTP.md
       - JSPP21.md
