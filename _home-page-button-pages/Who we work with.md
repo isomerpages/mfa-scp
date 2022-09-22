@@ -16,7 +16,7 @@ We also work closely with an international network of national focal points in d
 * International Civil Aviation Organisation (ICAO)
 * International Monetary Fund (IMF)
 * International Maritime Organisation (IMO)
-* INTERPOL
+* International Criminal Police Organisation (INTERPOL) 
 * UN Office of Disaster Risk Reduction (UNDRR)
 * UN Development Programme (UNDP)
 * UN Environment Programme (UNEP)
