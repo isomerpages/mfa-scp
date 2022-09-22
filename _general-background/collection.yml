@@ -2,6 +2,7 @@ collections:
   general-background:
     output: true
     order:
+      - SCP Friends.md
       - Our story.md
       - Who we work with.md
       - What we do.md
