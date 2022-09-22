@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Africa/Singapore Africa Partnership Programme.md
-      - Africa/Singapore African Partnership Programme.md
       - Africa/.keep
       - Palestinian Authority/.keep
       - Palestinian Authority/Details of the ETAP.md
