@@ -7,7 +7,7 @@ Singapore benefited from the assistance from developed countries and internation
 
 The advice that we received helped us to formulate and implement policies for Singapore that have helped us to grow and prosper.
 
-Our government officers recieved training in many areas:
+Our government officers received training in many areas:
 * manufacturing
 * shipbuilding
 * transportation and communications
