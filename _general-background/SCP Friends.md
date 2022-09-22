@@ -3,7 +3,7 @@ title: SCP Friends
 permalink: /scpfriends/permalink/
 description: ""
 ---
-A
+# **A**
 Afghanistan
 Albania
 Algeria
@@ -17,7 +17,7 @@ Aruba
 ASEAN Secretariat
 Azerbaijan
 
-B
+# **B**
 Bahamas
 Bahrain
 Bangladesh
@@ -37,7 +37,7 @@ Bulgaria
 Burkina Faso
 Burundi
 
-C
+# **C**
 Cabo Verde
 Cambodia
 Cameroon
@@ -58,12 +58,28 @@ Cuba
 Cyprus
 Czech Republic
 
-D
+# D
 Democratic People's Republic of Korea
 Democratic Republic of the Congo
 Djibouti
 Dominica
 Dominican Republic
 
-E
+# **E**
 Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+
+# **F**
+Fiji
+
+# G****
+Gabon
+Gambia
+Georgia
+Ghana
