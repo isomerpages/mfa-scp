@@ -2,4 +2,5 @@ collections:
   postgraduate-scholarships:
     output: true
     order:
+      - Details of the scholarships/Postgraduate scholarships.md
       - Details of the scholarships/.keep
