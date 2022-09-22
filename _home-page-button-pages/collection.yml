@@ -1,0 +1,4 @@
+collections:
+  home-page-button-pages:
+    output: true
+    order: []
