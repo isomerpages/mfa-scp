@@ -7,5 +7,6 @@ The SCP serves as a platform for Singapore and our partners to share knowledge, 
 
 We conduct short courses, workshops and study visits for foreign government officials in areas where Singapore has expertise in. We also offer a limited number of scholarships for select post-graduate courses Masters in public policy and international relations.
 
-**SCP Friends**
+Click here to see the list of developing countries, territories and intergovernmental organisations who have sent officials for our programmes.
 
+**SCP Friends**
