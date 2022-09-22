@@ -2,6 +2,7 @@ collections:
   special-packages:
     output: true
     order:
+      - ETAP/Information on the scholarships.md
       - ETAP/What scholars say.md
       - ETAP/Past Study Visits.md
       - ETAP/Terms of Award and list of eligible courses.md
