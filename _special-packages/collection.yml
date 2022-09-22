@@ -2,6 +2,7 @@ collections:
   special-packages:
     output: true
     order:
+      - SIDS/Details of SIDS packages.md
       - SIDS/.keep
       - Africa/Singapore Africa Partnership Programme.md
       - Africa/.keep
