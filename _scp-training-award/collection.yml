@@ -1,5 +1,4 @@
 collections:
   scp-training-award:
     output: true
-    order:
-      - What PA officials had to say about the SCP Training Award courses.md
+    order: []
