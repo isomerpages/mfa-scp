@@ -1,5 +1,5 @@
 collections:
-  home-page-button-pages:
+  general-background:
     output: true
     order:
       - Our story.md
