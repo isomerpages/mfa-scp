@@ -1,4 +1,4 @@
 collections:
-  study-visits:
+  tctps:
     output: true
     order: []
