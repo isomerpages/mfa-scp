@@ -10,7 +10,7 @@ third_nav_title: SIDS
 #### 
 #### Over 10,000 participants from SIDS have participated in programmes under the SIDS packages.
 #### 
-#### The Singapore Partnership for the SAMOA Pathway or SPa is Singapore's 5th technical assistance package. It offers:
+#### The Singapore Partnership for the [S.A.M.O.A. Pathway](https://sustainabledevelopment.un.org/samoapathway.html) or SPa is Singapore's 5th technical assistance package. It offers:
 
 1. Priority placement for SIDS officials for SCP courses
 2. Regional and bilateral customised courses
