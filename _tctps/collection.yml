@@ -2,6 +2,7 @@ collections:
   tctps:
     output: true
     order:
+      - TCTPs/WIPO.md
       - TCTPs/JSPP21.md
       - TCTPs/US TCTP.md
       - TCTPs/.keep
